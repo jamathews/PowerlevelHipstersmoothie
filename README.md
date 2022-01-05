@@ -8,7 +8,7 @@ A bad-ass oh-my-zsh theme.
 ## Installation
 1. Intall the following:
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-* [powerlevel9k](https://github.com/bhilburn/powerlevel9k) theme installed
+* [powerlevel10k](https://github.com/romkatv/powerlevel10k) theme installed
 * [nerd-fonts](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraMono/Regular/complete) - make sure to also enable this in your editor and terminal
 2. Install this theme
 ```
