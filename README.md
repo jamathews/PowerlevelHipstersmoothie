@@ -1,4 +1,4 @@
-# HipsterSmoothie's Powerlevel9k Theme
+# Forked From HipsterSmoothie's Powerlevel9k Theme
 
 A bad-ass oh-my-zsh theme.
 
@@ -12,13 +12,13 @@ A bad-ass oh-my-zsh theme.
 * [nerd-fonts](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraMono/Regular/complete) - make sure to also enable this in your editor and terminal
 2. Install this theme
 ```
-cd ~/.oh-my-zsh/custom/themes/ && git clone https://github.com/hipstersmoothie/PowerlevelHipstersmoothie.git
+cd ~/.oh-my-zsh/custom/themes/ && git clone https://github.com/jamathews/PowerlevelHipstersmoothie.git
 ```
 
 3. Add the following line to your .zshrc's theme section:
 
 ```
-source ~/.oh-my-zsh/custom/themes/PowerlevelHipstersmoothie/PowerlevelHipstersmoothie.zsh
+source ~/.oh-my-zsh/custom/themes/PowerlevelHipstersmoothie/PowerlevelHipstersmoothie.zsh-theme
 ```
 4. Reload oh-my-zsh
 
